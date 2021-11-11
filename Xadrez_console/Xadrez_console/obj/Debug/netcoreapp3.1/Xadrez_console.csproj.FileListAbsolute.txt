@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\bin\Debug\netcoreapp3.1\Xadrez_console.exe
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\bin\Debug\netcoreapp3.1\Xadrez_console.deps.json
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\bin\Debug\netcoreapp3.1\Xadrez_console.runtimeconfig.json
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\bin\Debug\netcoreapp3.1\Xadrez_console.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\bin\Debug\netcoreapp3.1\Xadrez_console.dll
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\bin\Debug\netcoreapp3.1\Xadrez_console.pdb
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.AssemblyInfo.cs
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.dll
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.pdb
+C:\Users\Lucas\Documents\Udemy\C#\Xadrez\Jogo-de-Xadrez\Xadrez_console\Xadrez_console\obj\Debug\netcoreapp3.1\Xadrez_console.genruntimeconfig.cache
