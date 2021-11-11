@@ -16,9 +16,14 @@ namespace tabuleiro
             Colunas = colunas;
             Pecas = new Peca[linhas, colunas];
         }
-        public Peca peca(int linha, int coluna)
+        public Peca peca(int linha, int coluna) // método criado para utilização da peça
         {
             return Pecas[linha, coluna];
+        }
+        public void ColocarPeca(Peca p, Posicao pos)
+        {
+            Pecas[pos.Linha, pos.Coluna] = p;
+            p.Posicao = pos;
         }
     }
 }
