@@ -21,7 +21,7 @@ namespace xadrez
         }
         public override string ToString()
         {
-            return "" + Coluna + Linha;
+            return " " + Coluna + Linha;
         }
     }
 }
